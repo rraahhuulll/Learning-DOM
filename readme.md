@@ -1,13 +1,13 @@
-# make a project GUESS THE NUMBER
+# MAKE A PROJECT GUESS THE NUMBER
 
-## its online single player game
+## Its online single player game
 
-## fork it and clone the code
+## Fork it and Clone the code
 
 ```bash
 git clone https://github.com/rraahhuulll/Learning-DOM.git
 ```
 
-## open with live server and you are ready to go
+## Open with live server and you are ready to go
 
 ## ：）
